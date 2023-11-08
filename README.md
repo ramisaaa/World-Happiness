@@ -48,7 +48,7 @@ The notebook is organized into the following sections:
 
 ## Usage
 
-You can view the notebook directly on GitHub or through this [Google Colab link](https://github.com/ramisaaa/World-Happiness). To run the notebook locally, clone the repository, install the necessary libraries, and run the notebook in a Jupyter environment.
+You can view the notebook directly on GitHub. To run the notebook locally, clone the repository, install the necessary libraries, and run the notebook in a Jupyter environment.
 
 ```bash
 git clone https://github.com/ramisaaa/World-Happiness.git

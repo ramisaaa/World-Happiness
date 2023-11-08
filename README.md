@@ -1,6 +1,6 @@
 # World Happiness Analysis
 
-This repository contains a Jupyter notebook which is a data analysis and visualization project based on the [World Happiness Reports](https://github.com/topics/world-happiness). The World Happiness Report ranks countries by how happy their citizens perceive themselves to be, based on factors such as GDP per capita, social support, healthy life expectancy, freedom, generosity, and perceptions of corruption.
+This repository contains a Jupyter notebook which is a data analysis and visualization project based on the [World Happiness Reports](https://github.com/ramisaaa/world-happiness). The World Happiness Report ranks countries by how happy their citizens perceive themselves to be, based on factors such as GDP per capita, social support, healthy life expectancy, freedom, generosity, and perceptions of corruption.
 
 ## Objectives
 
